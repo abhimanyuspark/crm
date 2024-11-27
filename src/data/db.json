@@ -1,0 +1,1765 @@
+{
+  "users": [
+    {
+      "id": "d6b0ffeb-0a53-4800-a1e4-0c3036f323a1",
+      "role": [
+        "admin",
+        "employee"
+      ],
+      "email": "admin@gmail.com",
+      "name": "Patti Kemmer",
+      "password": "admin3103",
+      "date": "2023-12-28T01:39:44.879Z",
+      "profile": "https://avatars.githubusercontent.com/u/99067997",
+      "age": 32,
+      "visits": 477,
+      "jobType": "Administrator",
+      "login": "Yes",
+      "company": "Cronin - Terry",
+      "officePhone": "(441) 287-3969 x32513",
+      "address": "40579 N Jefferson Street, New Rebeka",
+      "progress": 46,
+      "gender": "Male",
+      "allowFollowUp": {
+        "type": "No"
+      },
+      "status": {
+        "name": "InActive",
+        "color": "red",
+        "id": "b22856a9-80da-4898-af2e-5734a0adaebd"
+      },
+      "statusMenu": [
+        {
+          "name": "InActive",
+          "color": "red",
+          "id": "9207bb13-be24-497d-9c6a-4bd80c12cdb8"
+        },
+        {
+          "name": "Active",
+          "color": "#0cf90c",
+          "id": "6926818c-f5d9-4525-bdc4-4e25302f4608"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "0def2760-7aa7-40e1-bc68-9bdae083e10d",
+          "title": "attonbitus ara acidus depromo demo assentator",
+          "description": "Animadverto vinco suscipio ullam victus ultra.",
+          "status": {
+            "name": "pending",
+            "color": "yellow",
+            "id": "181cb9b1-8daf-4972-839b-3f8153296e64"
+          },
+          "start": "2024-02-19T18:35:17.757Z",
+          "end": "2024-02-29T23:20:18.656Z"
+        }
+      ],
+      "projects": [
+        {
+          "id": "279514a1-b606-4aa5-ae3e-625221c874dc",
+          "title": "Electronic Rubber Ball",
+          "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+          "status": {
+            "name": "inprocess",
+            "color": "blue",
+            "id": "f817df48-6af4-4bd2-a421-71b81f5bbe4f"
+          },
+          "start": "2024-03-25T20:18:21.769Z",
+          "end": "2024-04-30T04:48:37.871Z"
+        }
+      ],
+      "events": [
+        {
+          "id": "960b5794-8fb9-4116-8718-bec689a3fb71",
+          "title": "arma beatus concedo sol",
+          "description": "nulla summopere adopto cursim atqui itaque tamisium atqui arbustum adversus",
+          "status": {
+            "name": "inprocess",
+            "color": "blue",
+            "id": "5f02520d-a707-4870-aa8e-7aeeed24e36d"
+          },
+          "start": "2024-02-26T18:45:28.832Z",
+          "end": "2024-01-29T19:15:34.035Z",
+          "allDay": false
+        },
+        {
+          "id": "2fe5cd7c-57ca-4b61-9a07-66564c03935d",
+          "title": "Hi",
+          "start": "2024-04-14T20:22:54.779Z",
+          "end": "2024-04-14T20:22:54.779Z",
+          "description": "<p>Nice one<span class=\"ql-emojiblot\" data-name=\"kissing_heart\">﻿<span contenteditable=\"false\"><span class=\"ap ap-kissing_heart\">😘</span></span>﻿</span></p>",
+          "allDay": false,
+          "status": {
+            "name": "finished",
+            "color": "green",
+            "id": 3
+          }
+        },
+        {
+          "title": "nice",
+          "start": "2024-04-18T18:15:05.561Z",
+          "end": "2024-04-18T18:15:05.561Z",
+          "description": "<p>one<span class=\"ql-emojiblot\" data-name=\"joy\">﻿<span contenteditable=\"false\"><span class=\"ap ap-joy\">😂</span></span>﻿</span></p>",
+          "allDay": true,
+          "status": {
+            "name": "inprocess",
+            "color": "blue",
+            "id": 2
+          },
+          "id": "c5757867-303d-4015-837c-3f4c19b4fca2"
+        }
+      ],
+      "marital_status": {
+        "id": "1",
+        "name": "Single"
+      }
+    },
+    {
+      "id": "b2b7e49f-f0a8-4b82-8aeb-c10a5d5c3cf5",
+      "role": [
+        "client"
+      ],
+      "email": "Magdalen.Schmeler@hotmail.com",
+      "name": "Alexander Ankunding",
+      "password": "8mr2I4KO",
+      "date": "2024-05-04T04:46:05.152Z",
+      "profile": "https://avatars.githubusercontent.com/u/40372685",
+      "age": 35,
+      "visits": 473,
+      "jobType": "Analyst",
+      "login": "No",
+      "company": "Leffler - Wilderman",
+      "officePhone": "430-608-8688 x83727",
+      "address": "815 Daniel Corner, Gorczanyview",
+      "progress": 65,
+      "gender": "Other",
+      "allowFollowUp": {
+        "type": "No"
+      },
+      "status": {
+        "name": "Active",
+        "color": "#0cf90c",
+        "id": "27f7a25b-95e6-4642-977c-539ad134cc9c"
+      },
+      "statusMenu": [
+        {
+          "name": "InActive",
+          "color": "red",
+          "id": "1861cecc-323d-489c-a20d-0f3935baac66"
+        },
+        {
+          "name": "Active",
+          "color": "#0cf90c",
+          "id": "5a204229-b90f-4e83-b855-cdb7eff1769b"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "808602d8-8ce2-48dc-bce5-7d77659eb07a",
+          "title": "expedita volutabrum usitas velut vindico tres",
+          "description": "Tristis audax illum attonbitus alii sint.",
+          "status": {
+            "name": "pending",
+            "color": "yellow",
+            "id": "66f4ac3f-d2b6-4cd7-a73c-ec806acc7e00"
+          },
+          "start": "2024-06-18T23:31:01.825Z",
+          "end": "2024-05-19T02:58:02.184Z"
+        }
+      ],
+      "projects": [
+        {
+          "id": "41776727-a8e5-4f0d-9b85-61480043cdab",
+          "title": "Elegant Steel Ball",
+          "description": "The Football Is Good For Training And Recreational Purposes",
+          "status": {
+            "name": "inprocess",
+            "color": "blue",
+            "id": "e177a52c-380d-49a4-a589-687789998a66"
+          },
+          "start": "2024-08-30T17:22:06.407Z",
+          "end": "2024-10-21T20:11:06.112Z"
+        }
+      ],
+      "events": [
+        {
+          "title": "speciosus astrum venio vito",
+          "start": "2024-06-21T10:20:03.536Z",
+          "end": "2024-07-18T00:05:01.000Z",
+          "description": "<p>stipes tabgo magnam copia depono minima aeternus vito conor cumque</p>",
+          "allDay": true,
+          "status": {
+            "name": "inprocess",
+            "color": "blue",
+            "id": "306aac8a-deff-4832-b4d3-ccfe0f05f1db"
+          },
+          "id": "75353f74-3afb-4b11-a88e-e82f1bca6111"
+        },
+        {
+          "title": "Meeting",
+          "start": "2024-04-15T03:30:00.000Z",
+          "end": "2024-04-15T05:00:00.000Z",
+          "description": "<p><span class=\"ql-emojiblot\" data-name=\"joy\">﻿<span contenteditable=\"false\"><span class=\"ap ap-joy\">😂</span></span>﻿</span>Office meeting</p>",
+          "allDay": false,
+          "status": {
+            "name": "pending",
+            "color": "yellow",
+            "id": 1
+          },
+          "id": "a1f2bf75-55ec-4a72-8bdb-e32238af0a01"
+        }
+      ],
+      "phoneNumber": "",
+      "countryCode": "",
+      "country": "",
+      "officeWebsite": "",
+      "city": "",
+      "state": "",
+      "postalCode": "",
+      "note": ""
+    },
+    {
+      "id": "1b219ad4-04c2-48df-a75f-ccd5dd6a112e",
+      "role": [
+        "employee"
+      ],
+      "email": "Hope.Beier@gmail.com",
+      "name": "James Cole",
+      "password": "ssvJzZjD",
+      "date": "2023-12-01T19:02:13.051Z",
+      "profile": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/59.jpg",
+      "age": 32,
+      "visits": 815,
+      "jobType": "Engineer",
+      "login": "Yes",
+      "company": "Considine Inc",
+      "officePhone": "(977) 367-1442 x016",
+      "address": "25887 S Central Avenue, Port Baby",
+      "progress": 86,
+      "gender": "Male",
+      "allowFollowUp": {
+        "type": "No"
+      },
+      "status": {
+        "name": "InActive",
+        "color": "red",
+        "id": "4834a445-f39c-40c5-a141-5971d584c37f"
+      },
+      "statusMenu": [
+        {
+          "name": "InActive",
+          "color": "red",
+          "id": "ab3e99b0-aa8b-4228-83ed-0fc7bf3935d3"
+        },
+        {
+          "name": "Active",
+          "color": "#0cf90c",
+          "id": "3177bc2a-0604-4122-b4f7-9823394fd7b3"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "c33dae08-0b5e-4570-8926-702ceb0e0e67",
+          "title": "tamen amo pax depraedor alter consuasor",
+          "description": "Maiores molestias coma accusator vergo calculus tenax quos cupressus.",
+          "status": {
+            "name": "pending",
+            "color": "yellow",
+            "id": "d00b2ea7-c777-4c93-abf2-60d69c0b2815"
+          },
+          "start": "2024-10-22T01:06:15.810Z",
+          "end": "2024-07-25T10:20:26.748Z"
+        }
+      ],
+      "projects": [
+        {
+          "id": "1cbcea16-603e-42dc-993c-945c5c54a4a7",
+          "title": "Handmade Metal Sausages",
+          "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+          "status": {
+            "name": "inprocess",
+            "color": "blue",
+            "id": "ac0392ce-d948-48eb-b076-4aea4997eb15"
+          },
+          "start": "2024-06-24T21:47:24.550Z",
+          "end": "2024-07-30T21:02:41.045Z"
+        }
+      ],
+      "events": [
+        {
+          "id": "ac8b7e95-651d-4e2e-b131-a78f87fa5429",
+          "title": "vereor comedo caterva baiulus",
+          "description": "aurum necessitatibus depraedor facere vero abundans dolorem socius cum alveus",
+          "status": {
+            "name": "inprocess",
+            "color": "blue",
+            "id": "b215709f-7ec8-4c76-86eb-401c577131da"
+          },
+          "start": "2024-10-31T11:24:04.360Z",
+          "end": "2024-08-29T16:31:49.300Z",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "id": "a06f7f21-69cf-4874-83cb-9453f9952cc9",
+      "role": [
+        "client"
+      ],
+      "email": "Lynn.Fadel@yahoo.com",
+      "name": "Rex Kassulke",
+      "password": "cTxhrGTa",
+      "date": "2022-11-11T10:51:02.717Z",
+      "profile": "https://avatars.githubusercontent.com/u/4471895",
+      "age": 25,
+      "visits": 817,
+      "jobType": "Technician",
+      "login": "No",
+      "company": "Kihn - Walker",
+      "officePhone": "250-529-6047 x1532",
+      "address": "3632 Oakfield Road, Manhattan",
+      "progress": 65,
+      "gender": "Female",
+      "allowFollowUp": {
+        "type": "Yes"
+      },
+      "status": {
+        "name": "Active",
+        "color": "#0cf90c",
+        "id": "6926818c-f5d9-4525-bdc4-4e25302f4608"
+      },
+      "statusMenu": [
+        {
+          "name": "InActive",
+          "color": "red",
+          "id": "54a4fd43-3a3b-4ca1-ab6a-c54404238ed1"
+        },
+        {
+          "name": "Active",
+          "color": "#0cf90c",
+          "id": "27037970-58ac-4fcb-b67e-0c16135f6bc9"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "25025ba6-4f49-423c-9c65-6439825ed98c",
+          "title": "vel colligo adopto celebrer aliquam ventus",
+          "description": "Deludo depereo torqueo odio.",
+          "status": {
+            "name": "pending",
+            "color": "yellow",
+            "id": "aef0f615-bef0-4067-9f99-412fb48d201d"
+          },
+          "start": "2024-10-21T22:00:19.023Z",
+          "end": "2024-03-05T05:44:00.521Z"
+        }
+      ],
+      "projects": [
+        {
+          "id": "328d2555-27fc-4087-877e-633846f55721",
+          "title": "Luxurious Cotton Bike",
+          "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+          "status": {
+            "name": "inprocess",
+            "color": "blue",
+            "id": "7824dbaa-5fdf-4625-8520-49b2c3588fd2"
+          },
+          "start": "2024-04-19T11:52:55.002Z",
+          "end": "2024-02-17T02:56:44.008Z"
+        }
+      ],
+      "events": [
+        {
+          "id": "ab8c2226-859a-4c6d-8f97-51a66f869c76",
+          "title": "unde vix censura vere",
+          "description": "et celebrer culpo vinitor suus rem arto dolore abstergo crapula",
+          "status": {
+            "name": "inprocess",
+            "color": "blue",
+            "id": "9a3c118d-bddd-48db-848a-aa15db0976a5"
+          },
+          "start": "2024-07-28T11:07:06.233Z",
+          "end": "2024-03-21T23:49:16.186Z",
+          "allDay": true
+        }
+      ]
+    },
+    {
+      "id": "3579de7c-e96a-4895-8ae6-69f209e646c8",
+      "role": [
+        "client"
+      ],
+      "email": "Garnett.Stanton@hotmail.com",
+      "name": "Owen Nolan",
+      "password": "weX0MmyB",
+      "date": "2022-02-02T23:19:43.556Z",
+      "profile": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/901.jpg",
+      "age": 39,
+      "visits": 343,
+      "jobType": "Agent",
+      "login": "Yes",
+      "company": "Littel - Hyatt",
+      "officePhone": "849-443-0274 x441",
+      "address": "59192 Keyon Meadow, East Clementineborough",
+      "progress": 88,
+      "gender": "Male",
+      "allowFollowUp": {
+        "type": "Yes"
+      },
+      "status": {
+        "name": "Active",
+        "color": "#0cf90c",
+        "id": "592630fe-fa57-48bd-8247-472e9487fc52"
+      },
+      "statusMenu": [
+        {
+          "name": "InActive",
+          "color": "red",
+          "id": "a6ceac04-1883-49b2-bd62-11007b1cc8e1"
+        },
+        {
+          "name": "Active",
+          "color": "#0cf90c",
+          "id": "13305066-e00c-4ddb-8d80-266b83a54ac1"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "1b63c8aa-bb9f-4888-8c86-967d45e82fbe",
+          "title": "terreo solus virga absconditus delibero animadverto",
+          "description": "Collum virtus vicinus ullam aurum.",
+          "status": {
+            "name": "pending",
+            "color": "yellow",
+            "id": "b4e38784-effd-4b4c-b887-6984a38f7dd4"
+          },
+          "start": "2024-08-07T17:35:19.895Z",
+          "end": "2024-09-03T04:16:52.053Z"
+        }
+      ],
+      "projects": [
+        {
+          "id": "df6a6b8d-629d-414a-88fe-24384cfbe449",
+          "title": "Tasty Wooden Cheese",
+          "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+          "status": {
+            "name": "inprocess",
+            "color": "blue",
+            "id": "4b9a7460-5edd-42b9-9a60-b60a843edcaa"
+          },
+          "start": "2024-09-05T18:49:59.860Z",
+          "end": "2024-05-17T12:56:51.280Z"
+        }
+      ],
+      "events": [
+        {
+          "id": "deae50ef-0d46-4627-bae2-b7fef13af160",
+          "title": "est ubi avaritia dolorem",
+          "description": "ago unus vulgo villa vivo desipio demum adeo vociferor curriculum",
+          "status": {
+            "name": "inprocess",
+            "color": "blue",
+            "id": "013c7bde-e270-4826-9504-9b584eb39dbe"
+          },
+          "start": "2024-11-17T01:25:57.669Z",
+          "end": "2024-03-09T03:58:58.285Z",
+          "allDay": true
+        }
+      ]
+    },
+    {
+      "id": "f93a0d6a-f027-4ab3-8423-b15cfc2949f5",
+      "role": [
+        "client"
+      ],
+      "email": "Mathias_Krajcik73@hotmail.com",
+      "name": "Dean Friesen",
+      "password": "0zi8tvW_",
+      "date": "2022-12-14T03:27:19.561Z",
+      "profile": "https://avatars.githubusercontent.com/u/54456738",
+      "age": 36,
+      "visits": 511,
+      "jobType": "Manager",
+      "login": "Yes",
+      "company": "Miller - Waters",
+      "officePhone": "512.777.8618 x4528",
+      "address": "53091 Howe Corner, Mayeside",
+      "progress": 79,
+      "gender": "Female",
+      "allowFollowUp": {
+        "type": "No"
+      },
+      "status": {
+        "name": "Active",
+        "color": "#0cf90c",
+        "id": "6926818c-f5d9-4525-bdc4-4e25302f4608"
+      },
+      "statusMenu": [
+        {
+          "name": "InActive",
+          "color": "red",
+          "id": "c2072819-98ce-4b67-b0ff-f0228b7b41a1"
+        },
+        {
+          "name": "Active",
+          "color": "#0cf90c",
+          "id": "28ee1cd4-7e54-4e68-b14d-2e3276a55f3d"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "c285433c-575d-4358-a3e6-646de2f8431f",
+          "title": "sufficio tepidus cunctatio asperiores curis depulso",
+          "description": "Clementia volup thymbra vix bis adduco callide.",
+          "status": {
+            "name": "pending",
+            "color": "yellow",
+            "id": "c533d07a-b98c-4e7a-8ab1-4351d7210197"
+          },
+          "start": "2024-03-28T16:37:59.795Z",
+          "end": "2024-03-19T09:11:09.347Z"
+        }
+      ],
+      "projects": [
+        {
+          "id": "61a5bf27-70a6-443c-89bf-9a7330436eb7",
+          "title": "Elegant Frozen Shirt",
+          "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+          "status": {
+            "name": "inprocess",
+            "color": "blue",
+            "id": "4024b4a2-a149-4888-ae99-2f30656eb7f8"
+          },
+          "start": "2024-08-11T01:22:43.335Z",
+          "end": "2024-01-18T17:54:45.605Z"
+        }
+      ],
+      "events": [
+        {
+          "id": "098c4c16-e2d0-4a85-babc-fb72bc0debfe",
+          "title": "colligo titulus termes turba",
+          "description": "addo canto beneficium benigne compono tandem alo eius cervus aliqua",
+          "status": {
+            "name": "inprocess",
+            "color": "blue",
+            "id": "5f02ea77-99f1-47d7-92a8-1f09a506fef6"
+          },
+          "start": "2024-03-23T14:02:13.780Z",
+          "end": "2024-10-05T05:54:34.853Z",
+          "allDay": true
+        }
+      ]
+    },
+    {
+      "id": "47f8562c-d32a-4d79-8fca-54962e4b4c1d",
+      "role": [
+        "employee"
+      ],
+      "email": "Alyce.Bruen19@yahoo.com",
+      "name": "Ernesto Brakus",
+      "password": "dtWMBAkc",
+      "date": "2023-12-28T02:01:26.589Z",
+      "profile": "https://avatars.githubusercontent.com/u/87376561",
+      "age": 45,
+      "visits": 793,
+      "jobType": "Consultant",
+      "login": "Yes",
+      "company": "Kuhic, Hettinger and Labadie",
+      "officePhone": "1-691-411-4012 x4918",
+      "address": "18011 Turner Creek, Willardfield",
+      "progress": 52,
+      "gender": "Other",
+      "allowFollowUp": {
+        "type": "No"
+      },
+      "status": {
+        "name": "InActive",
+        "color": "red",
+        "id": "2cd1595f-6826-4c04-a45d-95e69c8118e4"
+      },
+      "statusMenu": [
+        {
+          "name": "InActive",
+          "color": "red",
+          "id": "7ffb4abd-4a85-4830-a788-fb309e265ef8"
+        },
+        {
+          "name": "Active",
+          "color": "#0cf90c",
+          "id": "5d856be3-61d1-492c-8ace-94a3552582ea"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "ef3be444-355a-4397-a9e0-1282b1529884",
+          "title": "agnosco adicio adsuesco ambulo vita astrum",
+          "description": "Trado pecco caelum.",
+          "status": {
+            "name": "pending",
+            "color": "yellow",
+            "id": "08b0c6bd-e331-4a75-bf1f-aa9219911647"
+          },
+          "start": "2024-02-27T19:50:39.476Z",
+          "end": "2024-08-24T09:33:39.180Z"
+        }
+      ],
+      "projects": [
+        {
+          "id": "f5d1a784-d6fe-4f00-993b-765d67d13902",
+          "title": "Incredible Frozen Chicken",
+          "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+          "status": {
+            "name": "inprocess",
+            "color": "blue",
+            "id": "0bb1d921-9f87-476b-939c-ff5a319a9648"
+          },
+          "start": "2024-05-24T17:13:19.333Z",
+          "end": "2024-10-06T19:44:23.037Z"
+        }
+      ],
+      "events": [
+        {
+          "id": "19f6a853-02a2-4178-84ae-827b955e9355",
+          "title": "vacuus aureus volubilis est",
+          "description": "villa repellendus claro laudantium statim adflicto vigor turbo verto causa",
+          "status": {
+            "name": "inprocess",
+            "color": "blue",
+            "id": "4481d582-fb27-4911-af46-6f893137298b"
+          },
+          "start": "2024-05-10T21:37:21.206Z",
+          "end": "2024-02-26T12:30:08.550Z",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "id": "80b0439d-9cac-4544-a503-6f7cd8db4af0",
+      "role": [
+        "client"
+      ],
+      "email": "Sage.Turcotte-Anderson99@hotmail.com",
+      "name": "Alfonso Ortiz",
+      "password": "4p0GXfnT",
+      "date": "2022-09-19T22:23:34.449Z",
+      "profile": "https://avatars.githubusercontent.com/u/73529094",
+      "age": 27,
+      "visits": 938,
+      "jobType": "Assistant",
+      "login": "Yes",
+      "company": "Schmidt and Sons",
+      "officePhone": "898-455-7161",
+      "address": "7388 Henderson Green, Lake Celinehaven",
+      "progress": 59,
+      "gender": "Other",
+      "allowFollowUp": {
+        "type": "Yes"
+      },
+      "status": {
+        "name": "Active",
+        "color": "#0cf90c",
+        "id": "6926818c-f5d9-4525-bdc4-4e25302f4608"
+      },
+      "statusMenu": [
+        {
+          "name": "InActive",
+          "color": "red",
+          "id": "acc3ef6f-fbc1-4407-9f05-4782a53990fb"
+        },
+        {
+          "name": "Active",
+          "color": "#0cf90c",
+          "id": "9a17ab9f-d60c-432e-b873-ca9795dc4dcf"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "93382dfd-2c5e-4e95-8416-50087c8b577d",
+          "title": "desino porro tempore benevolentia caveo summa",
+          "description": "Deserunt crastinus vicissitudo tergum.",
+          "status": {
+            "name": "pending",
+            "color": "yellow",
+            "id": "bd63b09c-3ca3-416f-baf5-d0aa4d1a07d4"
+          },
+          "start": "2024-11-08T09:19:22.860Z",
+          "end": "2024-03-03T23:58:04.583Z"
+        }
+      ],
+      "projects": [
+        {
+          "id": "7c7c888d-464f-4e67-abb5-e34aba0cd3d4",
+          "title": "Tasty Wooden Bacon",
+          "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+          "status": {
+            "name": "inprocess",
+            "color": "blue",
+            "id": "6b5ce7bf-b205-43b5-a73a-2777e28e963a"
+          },
+          "start": "2024-03-15T23:21:55.270Z",
+          "end": "2024-06-14T15:40:05.720Z"
+        }
+      ],
+      "events": [
+        {
+          "id": "950408c3-a7a6-4abd-9f37-a9f5bc37c942",
+          "title": "tendo cur coadunatio cubicularis",
+          "description": "averto audio cursim vulpes assumenda caritas adduco caterva admoneo deficio",
+          "status": {
+            "name": "inprocess",
+            "color": "blue",
+            "id": "18a687cf-2f69-4866-9b77-3d5b27e9de51"
+          },
+          "start": "2024-05-01T01:05:58.203Z",
+          "end": "2024-11-30T22:08:42.148Z",
+          "allDay": true
+        }
+      ]
+    },
+    {
+      "id": "187a17d2-bdd9-47f3-bb67-d6b7ab0193a5",
+      "role": [
+        "client"
+      ],
+      "email": "Jaycee.Schuppe23@gmail.com",
+      "name": "Earnest Swaniawski",
+      "password": "6rzQ5FOx",
+      "date": "2024-03-24T03:28:19.654Z",
+      "profile": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/576.jpg",
+      "age": 47,
+      "visits": 773,
+      "jobType": "Architect",
+      "login": "Yes",
+      "company": "Sauer - Doyle",
+      "officePhone": "705.785.0489 x377",
+      "address": "877 Kessler Place, Turcotteton",
+      "progress": 85,
+      "gender": "Other",
+      "allowFollowUp": {
+        "type": "Yes"
+      },
+      "status": {
+        "name": "Active",
+        "color": "#0cf90c",
+        "id": "6926818c-f5d9-4525-bdc4-4e25302f4608"
+      },
+      "statusMenu": [
+        {
+          "name": "InActive",
+          "color": "red",
+          "id": "b14a7aa9-0eea-4544-b7c9-3e8c69b68743"
+        },
+        {
+          "name": "Active",
+          "color": "#0cf90c",
+          "id": "2b64006b-40b8-4b0c-bf1b-1898842b6b91"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "215e8a36-6249-4d2d-a47d-b38edcd4b987",
+          "title": "vito utilis deleo pauper versus solium",
+          "description": "Coniuratio officia vinco conduco asporto creta thorax.",
+          "status": {
+            "name": "pending",
+            "color": "yellow",
+            "id": "83fab03b-c524-4fc0-8c6f-87bc7a6499ea"
+          },
+          "start": "2024-03-30T17:21:15.133Z",
+          "end": "2024-01-29T16:50:53.061Z"
+        }
+      ],
+      "projects": [
+        {
+          "id": "23bf2421-c9ea-4a6a-99d4-c438a4da2754",
+          "title": "Generic Bronze Pizza",
+          "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+          "status": {
+            "name": "inprocess",
+            "color": "blue",
+            "id": "c6131b81-dd20-4713-9b64-a1fd6432b3da"
+          },
+          "start": "2024-05-05T23:54:20.546Z",
+          "end": "2024-09-11T21:29:34.828Z"
+        }
+      ],
+      "events": [
+        {
+          "id": "38ab1e8c-4d33-4362-98ca-280728c2ea36",
+          "title": "vindico porro sequi vix",
+          "description": "blandior armarium carcer vix volubilis cunctatio aeger debitis adulescens sapiente",
+          "status": {
+            "name": "inprocess",
+            "color": "blue",
+            "id": "8ecb2bf9-e915-4087-a1d1-4ab7470fa0b6"
+          },
+          "start": "2024-01-13T00:58:25.958Z",
+          "end": "2024-05-28T18:09:16.805Z",
+          "allDay": true
+        }
+      ],
+      "phoneNumber": "",
+      "countryCode": "",
+      "country": "",
+      "officeWebsite": "",
+      "city": "",
+      "state": "",
+      "postalCode": "",
+      "note": "<h1><span class=\"ql-emojiblot\" data-name=\"grin\">﻿<span contenteditable=\"false\"><span class=\"ap ap-grin\">😁</span></span>﻿</span><span class=\"ql-emojiblot\" data-name=\"joy\">﻿<span contenteditable=\"false\"><span class=\"ap ap-joy\">😂</span></span>﻿</span><span class=\"ql-emojiblot\" data-name=\"smiley\">﻿<span contenteditable=\"false\"><span class=\"ap ap-smiley\">😃</span></span>﻿</span> hi</h1>"
+    },
+    {
+      "id": "685bb350-ba04-42ce-aa35-32e7f224232a",
+      "role": [
+        "client"
+      ],
+      "email": "Lauren75@yahoo.com",
+      "name": "Dr. Clinton Mueller",
+      "password": "hhR4ydre",
+      "date": "2023-12-31T08:22:28.391Z",
+      "profile": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/619.jpg",
+      "age": 45,
+      "visits": 657,
+      "jobType": "Analyst",
+      "login": "Yes",
+      "company": "Boehm - Nicolas",
+      "officePhone": "1-455-936-7757",
+      "address": "25981 Barbara Parkways, North Johanstad",
+      "progress": 84,
+      "gender": "Female",
+      "allowFollowUp": {
+        "type": "No"
+      },
+      "status": {
+        "name": "Active",
+        "color": "#0cf90c",
+        "id": "3a01841e-1c1f-4724-bc02-178a3340409e"
+      },
+      "statusMenu": [
+        {
+          "name": "InActive",
+          "color": "red",
+          "id": "2f425794-adf7-461d-8803-67cf1f18f083"
+        },
+        {
+          "name": "Active",
+          "color": "#0cf90c",
+          "id": "fa296d3f-6de6-4696-be54-73947112ccf3"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "28e33f37-153a-45dd-ab16-3715976b132e",
+          "title": "accommodo deprecator eum articulus vinitor acsi",
+          "description": "Deprecator vehemens aedificium.",
+          "status": {
+            "name": "pending",
+            "color": "yellow",
+            "id": "bfe9af62-66a8-4843-a7a9-821d568159c8"
+          },
+          "start": "2024-01-20T00:23:16.842Z",
+          "end": "2024-04-11T07:52:37.985Z"
+        }
+      ],
+      "projects": [
+        {
+          "id": "436219be-e523-420e-8c5f-f3c9dfb35012",
+          "title": "Licensed Metal Table",
+          "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+          "status": {
+            "name": "inprocess",
+            "color": "blue",
+            "id": "0d0035c6-5d91-49ec-b173-e82e4b97b975"
+          },
+          "start": "2024-02-18T03:35:44.366Z",
+          "end": "2024-05-13T11:38:36.693Z"
+        }
+      ],
+      "events": [
+        {
+          "id": "34b24fba-402c-4a9e-9b6e-6dcdb4d014cf",
+          "title": "ulciscor aer claudeo valeo",
+          "description": "uberrime acer dolorum addo esse annus temporibus comprehendo demitto peccatus",
+          "status": {
+            "name": "inprocess",
+            "color": "blue",
+            "id": "a19279b5-38d5-414d-8610-e388db2b07c1"
+          },
+          "start": "2024-10-26T03:10:20.819Z",
+          "end": "2024-03-29T03:32:51.665Z",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "id": "968a6575-d276-46f8-8ba7-dba59c68cc67",
+      "role": [
+        "client"
+      ],
+      "name": "specsssdasd",
+      "password": "DOQCn8&IJ0",
+      "profile": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/441.jpg",
+      "email": "specsss@gmail.com",
+      "age": "31",
+      "visits": "",
+      "jobType": "",
+      "date": "2024-04-14T18:48:10.397Z",
+      "login": "No",
+      "status": {
+        "name": "InActive",
+        "color": "red",
+        "id": "9207bb13-be24-497d-9c6a-4bd80c12cdb8"
+      },
+      "statusMenu": [
+        {
+          "name": "InActive",
+          "color": "red",
+          "id": "71a820b1-5002-47b4-8c64-6f197af13d1b"
+        },
+        {
+          "name": "Active",
+          "color": "#0cf90c",
+          "id": "4ddf56cf-c71a-4b62-aa46-86661a8e4dca"
+        }
+      ],
+      "gender": "Male",
+      "tasks": [],
+      "projects": [],
+      "events": [],
+      "allowFollowUp": {
+        "type": "No"
+      },
+      "phoneNumber": "",
+      "countryCode": "",
+      "country": "",
+      "company": "",
+      "officeWebsite": "",
+      "officePhone": "",
+      "address": "",
+      "city": "",
+      "state": "",
+      "postalCode": "",
+      "note": ""
+    },
+    {
+      "id": "e9de0010-bd4f-4a9c-bf6c-8aae1106cef4",
+      "role": [
+        "client"
+      ],
+      "name": "warlock",
+      "password": "6y9XSVXk6O",
+      "profile": "https://avatars.githubusercontent.com/u/38310092",
+      "email": "dvasu696@gmail.com",
+      "phoneNumber": "9027268328",
+      "countryCode": {
+        "name": {
+          "common": "India",
+          "official": "Republic of India",
+          "nativeName": {
+            "eng": {
+              "official": "Republic of India",
+              "common": "India"
+            },
+            "hin": {
+              "official": "भारत गणराज्य",
+              "common": "भारत"
+            },
+            "tam": {
+              "official": "இந்தியக் குடியரசு",
+              "common": "இந்தியா"
+            }
+          }
+        },
+        "tld": [
+          ".in"
+        ],
+        "cca2": "IN",
+        "ccn3": "356",
+        "cca3": "IND",
+        "cioc": "IND",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+          "INR": {
+            "name": "Indian rupee",
+            "symbol": "₹"
+          }
+        },
+        "idd": {
+          "root": "+9",
+          "suffixes": [
+            "1"
+          ]
+        },
+        "capital": [
+          "New Delhi"
+        ],
+        "altSpellings": [
+          "IN",
+          "Bhārat",
+          "Republic of India",
+          "Bharat Ganrajya",
+          "இந்தியா"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+          "eng": "English",
+          "hin": "Hindi",
+          "tam": "Tamil"
+        },
+        "translations": {
+          "ara": {
+            "official": "جمهورية الهند",
+            "common": "الهند"
+          },
+          "bre": {
+            "official": "Republik India",
+            "common": "India"
+          },
+          "ces": {
+            "official": "Indická republika",
+            "common": "Indie"
+          },
+          "cym": {
+            "official": "Republic of India",
+            "common": "India"
+          },
+          "deu": {
+            "official": "Republik Indien",
+            "common": "Indien"
+          },
+          "est": {
+            "official": "India Vabariik",
+            "common": "India"
+          },
+          "fin": {
+            "official": "Intian tasavalta",
+            "common": "Intia"
+          },
+          "fra": {
+            "official": "République de l'Inde",
+            "common": "Inde"
+          },
+          "hrv": {
+            "official": "Republika Indija",
+            "common": "Indija"
+          },
+          "hun": {
+            "official": "Indiai Köztársaság",
+            "common": "India"
+          },
+          "ita": {
+            "official": "Repubblica dell'India",
+            "common": "India"
+          },
+          "jpn": {
+            "official": "インド共和国",
+            "common": "インド"
+          },
+          "kor": {
+            "official": "인도 공화국",
+            "common": "인도"
+          },
+          "nld": {
+            "official": "Republiek India",
+            "common": "India"
+          },
+          "per": {
+            "official": "جمهوری هندوستان",
+            "common": "هند"
+          },
+          "pol": {
+            "official": "Republika Indii",
+            "common": "Indie"
+          },
+          "por": {
+            "official": "República da Índia",
+            "common": "Índia"
+          },
+          "rus": {
+            "official": "Республика Индия",
+            "common": "Индия"
+          },
+          "slk": {
+            "official": "Indická republika",
+            "common": "India"
+          },
+          "spa": {
+            "official": "República de la India",
+            "common": "India"
+          },
+          "srp": {
+            "official": "Република Индија",
+            "common": "Индија"
+          },
+          "swe": {
+            "official": "Republiken Indien",
+            "common": "Indien"
+          },
+          "tur": {
+            "official": "Hindistan Cumhuriyeti",
+            "common": "Hindistan"
+          },
+          "urd": {
+            "official": "جمہوریہ بھارت",
+            "common": "بھارت"
+          },
+          "zho": {
+            "official": "印度共和国",
+            "common": "印度"
+          }
+        },
+        "latlng": [
+          20,
+          77
+        ],
+        "landlocked": false,
+        "borders": [
+          "BGD",
+          "BTN",
+          "MMR",
+          "CHN",
+          "NPL",
+          "PAK"
+        ],
+        "area": 3287590,
+        "demonyms": {
+          "eng": {
+            "f": "Indian",
+            "m": "Indian"
+          },
+          "fra": {
+            "f": "Indienne",
+            "m": "Indien"
+          }
+        },
+        "flag": "🇮🇳",
+        "maps": {
+          "googleMaps": "https://goo.gl/maps/WSk3fLwG4vtPQetp7",
+          "openStreetMaps": "https://www.openstreetmap.org/relation/304716"
+        },
+        "population": 1380004385,
+        "gini": {
+          "2011": 35.7
+        },
+        "fifa": "IND",
+        "car": {
+          "signs": [
+            "IND"
+          ],
+          "side": "left"
+        },
+        "timezones": [
+          "UTC+05:30"
+        ],
+        "continents": [
+          "Asia"
+        ],
+        "flags": {
+          "png": "https://flagcdn.com/w320/in.png",
+          "svg": "https://flagcdn.com/in.svg",
+          "alt": "The flag of India is composed of three equal horizontal bands of saffron, white and green. A navy blue wheel with twenty-four spokes — the Ashoka Chakra — is centered in the white band."
+        },
+        "coatOfArms": {
+          "png": "https://mainfacts.com/media/images/coats_of_arms/in.png",
+          "svg": "https://mainfacts.com/media/images/coats_of_arms/in.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+          "latlng": [
+            28.6,
+            77.2
+          ]
+        },
+        "postalCode": {
+          "format": "######",
+          "regex": "^(\\d{6})$"
+        }
+      },
+      "country": {
+        "name": {
+          "common": "India",
+          "official": "Republic of India",
+          "nativeName": {
+            "eng": {
+              "official": "Republic of India",
+              "common": "India"
+            },
+            "hin": {
+              "official": "भारत गणराज्य",
+              "common": "भारत"
+            },
+            "tam": {
+              "official": "இந்தியக் குடியரசு",
+              "common": "இந்தியா"
+            }
+          }
+        },
+        "tld": [
+          ".in"
+        ],
+        "cca2": "IN",
+        "ccn3": "356",
+        "cca3": "IND",
+        "cioc": "IND",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+          "INR": {
+            "name": "Indian rupee",
+            "symbol": "₹"
+          }
+        },
+        "idd": {
+          "root": "+9",
+          "suffixes": [
+            "1"
+          ]
+        },
+        "capital": [
+          "New Delhi"
+        ],
+        "altSpellings": [
+          "IN",
+          "Bhārat",
+          "Republic of India",
+          "Bharat Ganrajya",
+          "இந்தியா"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+          "eng": "English",
+          "hin": "Hindi",
+          "tam": "Tamil"
+        },
+        "translations": {
+          "ara": {
+            "official": "جمهورية الهند",
+            "common": "الهند"
+          },
+          "bre": {
+            "official": "Republik India",
+            "common": "India"
+          },
+          "ces": {
+            "official": "Indická republika",
+            "common": "Indie"
+          },
+          "cym": {
+            "official": "Republic of India",
+            "common": "India"
+          },
+          "deu": {
+            "official": "Republik Indien",
+            "common": "Indien"
+          },
+          "est": {
+            "official": "India Vabariik",
+            "common": "India"
+          },
+          "fin": {
+            "official": "Intian tasavalta",
+            "common": "Intia"
+          },
+          "fra": {
+            "official": "République de l'Inde",
+            "common": "Inde"
+          },
+          "hrv": {
+            "official": "Republika Indija",
+            "common": "Indija"
+          },
+          "hun": {
+            "official": "Indiai Köztársaság",
+            "common": "India"
+          },
+          "ita": {
+            "official": "Repubblica dell'India",
+            "common": "India"
+          },
+          "jpn": {
+            "official": "インド共和国",
+            "common": "インド"
+          },
+          "kor": {
+            "official": "인도 공화국",
+            "common": "인도"
+          },
+          "nld": {
+            "official": "Republiek India",
+            "common": "India"
+          },
+          "per": {
+            "official": "جمهوری هندوستان",
+            "common": "هند"
+          },
+          "pol": {
+            "official": "Republika Indii",
+            "common": "Indie"
+          },
+          "por": {
+            "official": "República da Índia",
+            "common": "Índia"
+          },
+          "rus": {
+            "official": "Республика Индия",
+            "common": "Индия"
+          },
+          "slk": {
+            "official": "Indická republika",
+            "common": "India"
+          },
+          "spa": {
+            "official": "República de la India",
+            "common": "India"
+          },
+          "srp": {
+            "official": "Република Индија",
+            "common": "Индија"
+          },
+          "swe": {
+            "official": "Republiken Indien",
+            "common": "Indien"
+          },
+          "tur": {
+            "official": "Hindistan Cumhuriyeti",
+            "common": "Hindistan"
+          },
+          "urd": {
+            "official": "جمہوریہ بھارت",
+            "common": "بھارت"
+          },
+          "zho": {
+            "official": "印度共和国",
+            "common": "印度"
+          }
+        },
+        "latlng": [
+          20,
+          77
+        ],
+        "landlocked": false,
+        "borders": [
+          "BGD",
+          "BTN",
+          "MMR",
+          "CHN",
+          "NPL",
+          "PAK"
+        ],
+        "area": 3287590,
+        "demonyms": {
+          "eng": {
+            "f": "Indian",
+            "m": "Indian"
+          },
+          "fra": {
+            "f": "Indienne",
+            "m": "Indien"
+          }
+        },
+        "flag": "🇮🇳",
+        "maps": {
+          "googleMaps": "https://goo.gl/maps/WSk3fLwG4vtPQetp7",
+          "openStreetMaps": "https://www.openstreetmap.org/relation/304716"
+        },
+        "population": 1380004385,
+        "gini": {
+          "2011": 35.7
+        },
+        "fifa": "IND",
+        "car": {
+          "signs": [
+            "IND"
+          ],
+          "side": "left"
+        },
+        "timezones": [
+          "UTC+05:30"
+        ],
+        "continents": [
+          "Asia"
+        ],
+        "flags": {
+          "png": "https://flagcdn.com/w320/in.png",
+          "svg": "https://flagcdn.com/in.svg",
+          "alt": "The flag of India is composed of three equal horizontal bands of saffron, white and green. A navy blue wheel with twenty-four spokes — the Ashoka Chakra — is centered in the white band."
+        },
+        "coatOfArms": {
+          "png": "https://mainfacts.com/media/images/coats_of_arms/in.png",
+          "svg": "https://mainfacts.com/media/images/coats_of_arms/in.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+          "latlng": [
+            28.6,
+            77.2
+          ]
+        },
+        "postalCode": {
+          "format": "######",
+          "regex": "^(\\d{6})$"
+        }
+      },
+      "age": "",
+      "visits": "",
+      "jobType": "",
+      "date": "2024-04-15T14:22:14.870Z",
+      "login": "Yes",
+      "status": {
+        "name": "Active",
+        "color": "#0cf90c",
+        "id": "4ddf56cf-c71a-4b62-aa46-86661a8e4dca"
+      },
+      "statusMenu": [
+        {
+          "name": "InActive",
+          "color": "red",
+          "id": "71a820b1-5002-47b4-8c64-6f197af13d1b"
+        },
+        {
+          "name": "Active",
+          "color": "#0cf90c",
+          "id": "4ddf56cf-c71a-4b62-aa46-86661a8e4dca"
+        }
+      ],
+      "gender": "Male",
+      "tasks": [],
+      "projects": [],
+      "events": [
+        {
+          "id": "97b6ce3a-a8a7-4c8c-8063-4ffe3aac443b",
+          "title": "Urgent",
+          "start": "2024-04-19T03:30:00.000Z",
+          "end": "2024-04-19T04:30:00.000Z",
+          "description": "<p>Meeting in office tomorrow</p>",
+          "allDay": false,
+          "status": {
+            "name": "pending",
+            "color": "yellow",
+            "id": 1
+          }
+        },
+        {
+          "title": "Important",
+          "start": "2024-04-21T15:49:09.831Z",
+          "end": "2024-04-21T15:49:09.831Z",
+          "description": "<p>Meeting</p>",
+          "allDay": false,
+          "status": {
+            "name": "pending",
+            "color": "yellow",
+            "id": 1
+          },
+          "id": "c6b489e9-0a8b-47f1-a69a-5cd9a551f20c"
+        },
+        {
+          "id": "1b69af8d-2af2-4b07-8c16-ba84187b9a43",
+          "title": "Urgent",
+          "start": "2024-05-26T10:25:58.826Z",
+          "end": "2024-05-26T10:25:58.826Z",
+          "description": "<p>meeting in evening <span class=\"ql-emojiblot\" data-name=\"laughing\">﻿<span contenteditable=\"false\"><span class=\"ap ap-laughing\">😆</span></span>﻿</span></p>",
+          "allDay": true,
+          "status": {
+            "name": "pending",
+            "color": "yellow",
+            "id": 1
+          }
+        }
+      ],
+      "allowFollowUp": {
+        "type": "No"
+      },
+      "company": "",
+      "officeWebsite": "",
+      "officePhone": "",
+      "address": "",
+      "city": "",
+      "state": "",
+      "postalCode": "",
+      "note": "",
+      "phone": {
+        "code": {
+          "name": {
+            "common": "India",
+            "official": "Republic of India",
+            "nativeName": {
+              "eng": {
+                "official": "Republic of India",
+                "common": "India"
+              },
+              "hin": {
+                "official": "भारत गणराज्य",
+                "common": "भारत"
+              },
+              "tam": {
+                "official": "இந்தியக் குடியரசு",
+                "common": "இந்தியா"
+              }
+            }
+          },
+          "tld": [
+            ".in"
+          ],
+          "cca2": "IN",
+          "ccn3": "356",
+          "cca3": "IND",
+          "cioc": "IND",
+          "independent": true,
+          "status": "officially-assigned",
+          "unMember": true,
+          "currencies": {
+            "INR": {
+              "name": "Indian rupee",
+              "symbol": "₹"
+            }
+          },
+          "idd": {
+            "root": "+9",
+            "suffixes": [
+              "1"
+            ]
+          },
+          "capital": [
+            "New Delhi"
+          ],
+          "altSpellings": [
+            "IN",
+            "Bhārat",
+            "Republic of India",
+            "Bharat Ganrajya",
+            "இந்தியா"
+          ],
+          "region": "Asia",
+          "subregion": "Southern Asia",
+          "languages": {
+            "eng": "English",
+            "hin": "Hindi",
+            "tam": "Tamil"
+          },
+          "translations": {
+            "ara": {
+              "official": "جمهورية الهند",
+              "common": "الهند"
+            },
+            "bre": {
+              "official": "Republik India",
+              "common": "India"
+            },
+            "ces": {
+              "official": "Indická republika",
+              "common": "Indie"
+            },
+            "cym": {
+              "official": "Republic of India",
+              "common": "India"
+            },
+            "deu": {
+              "official": "Republik Indien",
+              "common": "Indien"
+            },
+            "est": {
+              "official": "India Vabariik",
+              "common": "India"
+            },
+            "fin": {
+              "official": "Intian tasavalta",
+              "common": "Intia"
+            },
+            "fra": {
+              "official": "République de l'Inde",
+              "common": "Inde"
+            },
+            "hrv": {
+              "official": "Republika Indija",
+              "common": "Indija"
+            },
+            "hun": {
+              "official": "Indiai Köztársaság",
+              "common": "India"
+            },
+            "ita": {
+              "official": "Repubblica dell'India",
+              "common": "India"
+            },
+            "jpn": {
+              "official": "インド共和国",
+              "common": "インド"
+            },
+            "kor": {
+              "official": "인도 공화국",
+              "common": "인도"
+            },
+            "nld": {
+              "official": "Republiek India",
+              "common": "India"
+            },
+            "per": {
+              "official": "جمهوری هندوستان",
+              "common": "هند"
+            },
+            "pol": {
+              "official": "Republika Indii",
+              "common": "Indie"
+            },
+            "por": {
+              "official": "República da Índia",
+              "common": "Índia"
+            },
+            "rus": {
+              "official": "Республика Индия",
+              "common": "Индия"
+            },
+            "slk": {
+              "official": "Indická republika",
+              "common": "India"
+            },
+            "spa": {
+              "official": "República de la India",
+              "common": "India"
+            },
+            "srp": {
+              "official": "Република Индија",
+              "common": "Индија"
+            },
+            "swe": {
+              "official": "Republiken Indien",
+              "common": "Indien"
+            },
+            "tur": {
+              "official": "Hindistan Cumhuriyeti",
+              "common": "Hindistan"
+            },
+            "urd": {
+              "official": "جمہوریہ بھارت",
+              "common": "بھارت"
+            },
+            "zho": {
+              "official": "印度共和国",
+              "common": "印度"
+            }
+          },
+          "latlng": [
+            20,
+            77
+          ],
+          "landlocked": false,
+          "borders": [
+            "BGD",
+            "BTN",
+            "MMR",
+            "CHN",
+            "NPL",
+            "PAK"
+          ],
+          "area": 3287590,
+          "demonyms": {
+            "eng": {
+              "f": "Indian",
+              "m": "Indian"
+            },
+            "fra": {
+              "f": "Indienne",
+              "m": "Indien"
+            }
+          },
+          "flag": "🇮🇳",
+          "maps": {
+            "googleMaps": "https://goo.gl/maps/WSk3fLwG4vtPQetp7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/304716"
+          },
+          "population": 1380004385,
+          "gini": {
+            "2011": 35.7
+          },
+          "fifa": "IND",
+          "car": {
+            "signs": [
+              "IND"
+            ],
+            "side": "left"
+          },
+          "timezones": [
+            "UTC+05:30"
+          ],
+          "continents": [
+            "Asia"
+          ],
+          "flags": {
+            "png": "https://flagcdn.com/w320/in.png",
+            "svg": "https://flagcdn.com/in.svg",
+            "alt": "The flag of India is composed of three equal horizontal bands of saffron, white and green. A navy blue wheel with twenty-four spokes — the Ashoka Chakra — is centered in the white band."
+          },
+          "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/in.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/in.svg"
+          },
+          "startOfWeek": "monday",
+          "capitalInfo": {
+            "latlng": [
+              28.6,
+              77.2
+            ]
+          },
+          "postalCode": {
+            "format": "######",
+            "regex": "^(\\d{6})$"
+          }
+        }
+      }
+    },
+    {
+      "id": "14ce56f1-5a61-47a9-ac1a-71f177d5beff",
+      "role": [
+        "client"
+      ],
+      "name": "hulk",
+      "password": "hulkBuster",
+      "profile": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/498.jpg",
+      "email": "hulk@gmail.com",
+      "phoneNumber": "",
+      "countryCode": "",
+      "country": "",
+      "age": "",
+      "visits": "",
+      "jobType": "",
+      "date": "2024-04-18T11:13:17.729Z",
+      "login": "No",
+      "status": {
+        "name": "Active",
+        "color": "#0cf90c",
+        "id": "4ddf56cf-c71a-4b62-aa46-86661a8e4dca"
+      },
+      "statusMenu": [
+        {
+          "name": "InActive",
+          "color": "red",
+          "id": "71a820b1-5002-47b4-8c64-6f197af13d1b"
+        },
+        {
+          "name": "Active",
+          "color": "#0cf90c",
+          "id": "4ddf56cf-c71a-4b62-aa46-86661a8e4dca"
+        }
+      ],
+      "gender": "Male",
+      "tasks": [],
+      "projects": [],
+      "events": [],
+      "allowFollowUp": {
+        "type": "No"
+      },
+      "company": "",
+      "officeWebsite": "",
+      "officePhone": "",
+      "address": "",
+      "city": "",
+      "state": "",
+      "postalCode": "",
+      "note": ""
+    }
+  ]
+}

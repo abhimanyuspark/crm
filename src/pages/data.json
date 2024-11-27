@@ -1,0 +1,60 @@
+{
+  "initialData": [
+    {
+      "initialImage": "https://e7.pngegg.com/pngimages/84/165/png-clipart-united-states-avatar-organization-information-user-avatar-service-computer-wallpaper.png"
+    }
+  ],
+  "ClientsData": {
+    "followUp": [{ "type": "All" }, { "type": "Yes" }, { "type": "No" }],
+    "status": [
+      {
+        "name": "All"
+      },
+      {
+        "name": "InActive"
+      },
+      {
+        "name": "Active"
+      }
+    ],
+    "loginData": ["Yes", "No"]
+  },
+  "employeeData":{
+    "jobType":[
+      "Adminstrater",
+      "Manager",
+      "Hr",
+      "Sales"
+    ]
+  },
+  "Marital_status": [
+    { "id": "1", "name": "Single" },
+    { "id": "2", "name": "Married" },
+    { "id": "3", "name": "Divorced" },
+    { "id": "4", "name": "Widowed" },
+    { "id": "5", "name": "Separated" },
+    { "id": "6", "name": "Civil Union" }
+  ],
+  "genders": ["Male", "Female", "Other"],
+  "eventsData": [
+    {
+      "name": "pending",
+      "color": "yellow",
+      "id": 1
+    },
+    {
+      "name": "inprocess",
+      "color": "blue",
+      "id": 2
+    },
+    {
+      "name": "finished",
+      "color": "green",
+      "id": 3
+    }
+  ],
+  "settingSideBarData": [
+    { "title": "Profile", "link": "/crm_project/settings/profile" },
+    { "title": "App setting", "link": "/crm_project/settings/app_settings" }
+  ]
+}

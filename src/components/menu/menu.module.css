@@ -1,0 +1,52 @@
+.main {
+  width: auto;
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+  --border: 1px solid gainsboro;
+}
+.menuBar {
+  border-radius: 0.2rem;
+  border: var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 33px;
+  background-color: white;
+  cursor: pointer;
+}
+.menuBar:hover {
+  background-color: gainsboro;
+}
+/* .menuBar:focus {
+  outline: 2px solid blue;
+  outline-offset: -4px;
+} */
+.list {
+  position: absolute;
+  width: 150px;
+  border-radius: 0.2rem;
+  border: var(--border);
+  padding: 6px 0px;
+  top: calc(33px + 0.2rem);
+  right: 0;
+  background-color: white;
+  z-index: 10;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
+    rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+.list > li {
+  padding: 6px 10px;
+  cursor: pointer;
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  transition: all 0.3s ease;
+  font-size: 15px;
+  @apply text-slate-600;
+}
+.list > li:hover {
+  @apply bg-slate-200;
+  color: black;
+}

@@ -1,0 +1,113 @@
+/* Avatar css */
+
+.avatar:hover {
+  background: repeating-linear-gradient(
+      -45deg,
+      rgb(242, 242, 242) 0 10px,
+      white 0 20px
+    )
+    right/200% 100%;
+  /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+  animation: imageloader 8s infinite linear;
+}
+
+@media (min-width: 1024px) {
+  .avatar:hover {
+    animation: imageloader 2s infinite linear;
+  }
+}
+
+/* custome loader */
+
+.loader {
+  width: 50px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  border: 8px solid;
+  border-color: #000 #0000;
+  animation: loader 1s infinite;
+}
+@keyframes loader {
+  to {
+    transform: rotate(0.5turn);
+  }
+}
+
+.imageloader {
+  width: calc(80px / cos(45deg));
+  height: 14px;
+  background: repeating-linear-gradient(-45deg, gainsboro 0 15px, #0000 0 20px)
+    right/200% 100%;
+  animation: imageloader 2s infinite linear;
+}
+
+@keyframes imageloader {
+  100% {
+    background-position: left;
+  }
+}
+
+/* Custom progress bar */
+
+progress::-webkit-progress-bar {
+  background-color: gainsboro;
+  border-radius: 3px;
+}
+progress::-webkit-progress-value {
+  @apply bg-blue-600;
+  border-radius: 3px;
+}
+
+progress::-webkit-progress-bar:hover {
+  @apply bg-slate-400;
+}
+progress::-webkit-progress-value:hover {
+  @apply bg-blue-800;
+}
+
+/* Text Editor css */
+
+.mycontainer > .ql-toolbar.ql-snow {
+  border-top-right-radius: 0.3rem !important;
+  border-top-left-radius: 0.3rem !important;
+}
+
+.mycontainer > .ql-container.ql-snow {
+  border-bottom-right-radius: 0.3rem !important;
+  border-bottom-left-radius: 0.3rem !important;
+}
+
+/* Calender custom css */
+
+:root {
+  --fc-today-bg-color: #f2f4f7 !important;
+}
+
+.fc {
+  font-size: 14px !important;
+}
+.fc-toolbar-title {
+  font-size: 12.5px !important;
+}
+.fc .fc-button-primary:not(:disabled).fc-button-active,
+.fc .fc-button-primary:not(:disabled):active {
+  color: #99a5b5 !important;
+  background-color: #1a252f !important;
+}
+.fc .fc-button-primary {
+  color: #99a5b5 !important;
+  background-color: white !important;
+  border-color: #99a5b5 !important;
+}
+.fc .fc-button-primary:hover {
+  background-color: #1a252f !important;
+}
+.fc-daygrid-day-number {
+  color: #99a5b5 !important;
+}
+.fc-daygrid-day-number:hover {
+  color: black !important;
+}
+.fc .fc-col-header-cell-cushion {
+  padding: 10px !important;
+}
