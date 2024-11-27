@@ -54,7 +54,7 @@
     }
   ],
   "settingSideBarData": [
-    { "title": "Profile", "link": "/crm_project/settings/profile" },
-    { "title": "App setting", "link": "/crm_project/settings/app_settings" }
+    { "title": "Profile", "link": "/crm/settings/profile" },
+    { "title": "App setting", "link": "/crm/settings/app_settings" }
   ]
 }
