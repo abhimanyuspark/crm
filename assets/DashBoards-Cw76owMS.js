@@ -1,0 +1,1 @@
+import{u as o,j as e,h as n,A as l}from"./index-Cac5ShxX.js";const i=({role:t})=>{var a;const{user:s}=o(r=>r.auth);return s&&((a=s==null?void 0:s.role)!=null&&a.includes(t.Client))?e.jsx(n,{}):e.jsx(l,{})};export{i as default};
