@@ -38,7 +38,7 @@ function App() {
     Client: "client",
   };
 
-  const url = "/crm_project";
+  const url = "/crm";
 
   const dispatch = useDispatch();
 

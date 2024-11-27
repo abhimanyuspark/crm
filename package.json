@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/abhimanyuspark/crm_project",
-  "name": "crm_project",
+  "homepage": "https://github.com/abhimanyuspark/crm",
+  "name": "crm",
   "private": true,
   "version": "1.0.0",
   "type": "module",
