@@ -18,7 +18,7 @@ const Login = () => {
   const dispatch = useDispatch();
   const navigate = useNavigate();
   const location = useLocation();
-  const from = location.state?.from?.pathname || "/crm_project/";
+  const from = location.state?.from?.pathname || "/crm/";
 
   const [formData, setFormData] = useState({
     email: "",

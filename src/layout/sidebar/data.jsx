@@ -6,6 +6,8 @@ import {
   FaUsers,
 } from "../../components/icons";
 
+const url = "/crm"
+
 export const admin = [
   {
     id: 1,
@@ -15,7 +17,7 @@ export const admin = [
       {
         id: 1,
         value: "Private Dashboard",
-        link: "/crm_project/",
+        link: `${url}/`,
       },
     ],
   },
@@ -23,25 +25,25 @@ export const admin = [
     id: 2,
     icon: <FaUserFriends />,
     value: "Clients",
-    link: "/crm_project/clients",
+    link: `${url}/clients`,
   },
   {
     id: 3,
     icon: <FaUsers />,
     value: "Employees",
-    link: "/crm_project/employees",
+    link: `${url}/employees`,
   },
   {
     id: 4,
     icon: <FaCalendar />,
     value: "Events",
-    link: "/crm_project/events",
+    link: `${url}/events`,
   },
   {
     id: 5,
     icon: <FaGear />,
     value: "Settings",
-    link: "/crm_project/settings",
+    link: `${url}/settings`,
   },
 ];
 
@@ -50,13 +52,13 @@ export const client = [
     id: 1,
     icon: <FaDashcube />,
     value: "Dashboard",
-    link: "/crm_project/",
+    link: `${url}/`,
   },
   {
     id: 2,
     icon: <FaGear />,
     value: "Settings",
-    link: "/crm_project/settings",
+    link: `${url}/settings`,
   },
 ];
 
@@ -69,7 +71,7 @@ export const employee = [
       {
         id: 1,
         value: "Private Dashboard",
-        link: "/crm_project/",
+        link: `${url}/`,
       },
     ],
   },
@@ -77,12 +79,12 @@ export const employee = [
     id: 2,
     icon: <FaCalendar />,
     value: "Events",
-    link: "/crm_project/events",
+    link: `${url}/events`,
   },
   {
     id: 3,
     icon: <FaGear />,
     value: "Settings",
-    link: "/crm_project/settings",
+    link: `${url}/settings`,
   },
 ];

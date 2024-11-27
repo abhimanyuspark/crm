@@ -25,7 +25,7 @@ const Navbar = () => {
         {breadcrumbs.map((crumb, index) => {
           if (index > 0 && Keys.includes(crumbs[0])) return null;
           const item = index === 1 && crumb === user?.id ? user?.name : crumb;
-          const value = item === "crm_project" ? "Dashboard" : item;
+          const value = item === "crm" ? "Dashboard" : item;
 
           return (
             <div key={index} className="flex items-baseline gap-1">

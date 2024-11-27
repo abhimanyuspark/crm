@@ -57,11 +57,12 @@ function App() {
           <Route
             element={
               <RequireAuth
+                url={url}
                 roleAccess={[role.Admin, role.Employee, role.Client]}
               />
             }
           >
-            <Route path="/crm_project/" element={<DashBoards role={role} />} />
+            <Route path={`${url}/`} element={<DashBoards role={role} />} />
             <Route path={`${url}/settings/`} element={<Settings />}>
               <Route index element={<ProfileTab />} />
               <Route path="profile" element={<ProfileTab />} />
@@ -69,7 +70,7 @@ function App() {
             </Route>
           </Route>
 
-          <Route element={<RequireAuth roleAccess={[role.Admin]} />}>
+          <Route element={<RequireAuth url={url} roleAccess={[role.Admin]} />}>
             {/* Clients Start */}
             <Route path={`${url}/clients/`}>
               <Route index element={<Client />} />
@@ -102,7 +103,7 @@ function App() {
           </Route>
 
           <Route
-            element={<RequireAuth roleAccess={[role.Admin, role.Employee]} />}
+            element={<RequireAuth url={url} roleAccess={[role.Admin, role.Employee]} />}
           >
             {/* Events Start */}
             <Route path={`${url}/events/`}>

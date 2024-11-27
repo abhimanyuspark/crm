@@ -22,7 +22,7 @@ const Calender = ({
 
   function handleEventClick(clickInfo) {
     const eventId = clickInfo.event.id;
-    navigate(`/crm_project/events/${userId}/${eventId}`);
+    navigate(`/crm/events/${userId}/${eventId}`);
   }
 
   // function handleDateSelect(selectInfo) {

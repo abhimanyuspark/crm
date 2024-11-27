@@ -79,7 +79,7 @@ export const Columns = [
       return (
         <div className="w-44 cursor-pointer">
           <Link
-            to={`/crm_project/clients/${id}`}
+            to={`/crm/clients/${id}`}
             className="text-sm hover:underline text-slate-700 font-semibold"
           >
             {value}
@@ -205,14 +205,15 @@ export const Columns = [
       const { id, name } = info.row.original;
 
       const Edit = (id) => {
-        navigate(`/crm_project/clients/${id}/edit`, {
+        navigate(`/crm/clients/${id}/edit`, {
           state: { from: location },
         });
       };
 
       const View = (id) => {
-        navigate(`/crm_project/clients/${id}`, { state: { from: location } });
+        navigate(`/crm/clients/${id}`, { state: { from: location } });
       };
+
       const Delete = (id) => {
         Swal.fire({
           title: "Are you sure?",

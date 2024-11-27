@@ -3,7 +3,7 @@ import { useLocation, Navigate } from "react-router-dom";
 import Layout from "../layout/Layout";
 import { useSelector } from "react-redux";
 
-const RequireAuth = ({ roleAccess = [] }) => {
+const RequireAuth = ({ roleAccess = [], url="" }) => {
   const location = useLocation();
   const { user } = useSelector((state) => state.auth);
 
@@ -13,7 +13,7 @@ const RequireAuth = ({ roleAccess = [] }) => {
     } else {
       return (
         <Navigate
-          to="/crm_project/unAuthorized"
+          to={`${url}/unAuthorized`}
           state={{ from: location }}
           replace
         />
@@ -21,7 +21,7 @@ const RequireAuth = ({ roleAccess = [] }) => {
     }
   } else {
     return (
-      <Navigate to="/crm_project/login" state={{ from: location }} replace />
+      <Navigate to={`${url}/login`} state={{ from: location }} replace />
     );
   }
 };

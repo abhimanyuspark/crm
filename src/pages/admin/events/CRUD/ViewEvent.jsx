@@ -14,7 +14,7 @@ const ViewEvent = () => {
   const dispatch = useDispatch();
   const location = useLocation();
   const navigate = useNavigate();
-  const from = location.state?.from?.pathname || "/crm_project/events";
+  const from = location.state?.from?.pathname || "/crm/events";
 
   useEffect(() => {
     if (userId) {
@@ -60,7 +60,7 @@ const ViewEvent = () => {
   };
 
   const Update = () => {
-    navigate(`/crm_project/events/${userId}/${id}/edit`);
+    navigate(`/crm/events/${userId}/${id}/edit`);
   };
 
   return (
