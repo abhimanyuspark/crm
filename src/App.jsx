@@ -30,6 +30,7 @@ import "react-datepicker/dist/react-datepicker.css";
 import { useDispatch } from "react-redux";
 import { getContryApi } from "./redux/server/other_api";
 const initialImage = initialData[0].initialImage;
+import { SpeedInsights } from '@vercel/speed-insights/react';
 
 function App() {
   const role = {
@@ -116,6 +117,7 @@ function App() {
           </Route>
         </Route>
       </Routes>
+      <SpeedInsights />
       <Toaster position="top-right" />
       <Tooltip id="my-tooltip" className="z-50" />
     </Suspense>
