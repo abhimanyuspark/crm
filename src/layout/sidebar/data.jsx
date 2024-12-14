@@ -6,8 +6,6 @@ import {
   FaUsers,
 } from "../../components/icons";
 
-const url = "/crm"
-
 export const admin = [
   {
     id: 1,
@@ -17,7 +15,7 @@ export const admin = [
       {
         id: 1,
         value: "Private Dashboard",
-        link: `${url}/`,
+        link: `/`,
       },
     ],
   },
@@ -25,25 +23,25 @@ export const admin = [
     id: 2,
     icon: <FaUserFriends />,
     value: "Clients",
-    link: `${url}/clients`,
+    link: `/clients`,
   },
   {
     id: 3,
     icon: <FaUsers />,
     value: "Employees",
-    link: `${url}/employees`,
+    link: `/employees`,
   },
   {
     id: 4,
     icon: <FaCalendar />,
     value: "Events",
-    link: `${url}/events`,
+    link: `/events`,
   },
   {
     id: 5,
     icon: <FaGear />,
     value: "Settings",
-    link: `${url}/settings`,
+    link: `/settings`,
   },
 ];
 
@@ -52,13 +50,13 @@ export const client = [
     id: 1,
     icon: <FaDashcube />,
     value: "Dashboard",
-    link: `${url}/`,
+    link: `/`,
   },
   {
     id: 2,
     icon: <FaGear />,
     value: "Settings",
-    link: `${url}/settings`,
+    link: `/settings`,
   },
 ];
 
@@ -71,7 +69,7 @@ export const employee = [
       {
         id: 1,
         value: "Private Dashboard",
-        link: `${url}/`,
+        link: `/`,
       },
     ],
   },
@@ -79,12 +77,12 @@ export const employee = [
     id: 2,
     icon: <FaCalendar />,
     value: "Events",
-    link: `${url}/events`,
+    link: `/events`,
   },
   {
     id: 3,
     icon: <FaGear />,
     value: "Settings",
-    link: `${url}/settings`,
+    link: `/settings`,
   },
 ];
