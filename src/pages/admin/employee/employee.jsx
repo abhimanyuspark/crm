@@ -196,7 +196,7 @@ const Employee = () => {
             icon={<FaPlus />}
             type="button"
             onClick={() => {
-              navigate("/crm/employees/add");
+              navigate("/employees/add");
             }}
           />
         </div>

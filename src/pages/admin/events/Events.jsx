@@ -118,7 +118,7 @@ const Events = () => {
               type="button"
               icon={<FaPlus />}
               onClick={() => {
-                navigate("/crm/events/create");
+                navigate("/events/create");
               }}
             />
           </div>

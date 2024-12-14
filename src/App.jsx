@@ -39,8 +39,6 @@ function App() {
     Client: "client",
   };
 
-  const url = "/crm";
-
   const dispatch = useDispatch();
 
   useEffect(() => {
@@ -50,30 +48,29 @@ function App() {
   return (
     <Suspense fallback={<Loader />}>
       <Routes>
-        <Route path={`${url}/login`} element={<Login />} />
-        <Route path={`${url}/unAuthorized`} element={<UnAuth />} />
-        <Route path={`${url}/*`} element={<Not_Found />} />
+        <Route path={`/login`} element={<Login />} />
+        <Route path={`/unAuthorized`} element={<UnAuth />} />
+        <Route path={`/*`} element={<Not_Found />} />
 
         <Route element={<PersistenceAuth />}>
           <Route
             element={
               <RequireAuth
-                url={url}
                 roleAccess={[role.Admin, role.Employee, role.Client]}
               />
             }
           >
-            <Route path={`${url}/`} element={<DashBoards role={role} />} />
-            <Route path={`${url}/settings/`} element={<Settings />}>
+            <Route path={`/`} element={<DashBoards role={role} />} />
+            <Route path={`/settings/`} element={<Settings />}>
               <Route index element={<ProfileTab />} />
               <Route path="profile" element={<ProfileTab />} />
               <Route path="app_settings" element={<AppTab />} />
             </Route>
           </Route>
 
-          <Route element={<RequireAuth url={url} roleAccess={[role.Admin]} />}>
+          <Route element={<RequireAuth roleAccess={[role.Admin]} />}>
             {/* Clients Start */}
-            <Route path={`${url}/clients/`}>
+            <Route path={`/clients/`}>
               <Route index element={<Client />} />
               <Route
                 path=":id"
@@ -88,7 +85,7 @@ function App() {
             {/* Clients End */}
 
             {/* Emplyees Start */}
-            <Route path={`${url}/employees/`}>
+            <Route path={`/employees/`}>
               <Route index element={<Employee />} />
               <Route
                 path=":id"
@@ -104,10 +101,10 @@ function App() {
           </Route>
 
           <Route
-            element={<RequireAuth url={url} roleAccess={[role.Admin, role.Employee]} />}
+            element={<RequireAuth roleAccess={[role.Admin, role.Employee]} />}
           >
             {/* Events Start */}
-            <Route path={`${url}/events/`}>
+            <Route path={`/events/`}>
               <Route index element={<Events />} />
               <Route path="create" element={<AddEvent />} />
               <Route path=":userId/:id/edit" element={<EditEvent />} />

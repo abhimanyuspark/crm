@@ -79,7 +79,7 @@ export const Columns = [
       return (
         <div className="w-44 cursor-pointer">
           <Link
-            to={`/crm/clients/${id}`}
+            to={`/clients/${id}`}
             className="text-sm hover:underline text-slate-700 font-semibold"
           >
             {value}
@@ -205,13 +205,13 @@ export const Columns = [
       const { id, name } = info.row.original;
 
       const Edit = (id) => {
-        navigate(`/crm/clients/${id}/edit`, {
+        navigate(`/clients/${id}/edit`, {
           state: { from: location },
         });
       };
 
       const View = (id) => {
-        navigate(`/crm/clients/${id}`, { state: { from: location } });
+        navigate(`/clients/${id}`, { state: { from: location } });
       };
 
       const Delete = (id) => {
